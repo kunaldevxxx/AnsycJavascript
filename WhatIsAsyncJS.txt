@@ -1,0 +1,18 @@
+What Is Async JS ??
+Answer - 
+kai baar aapka final code depended hota hai kisi aur ke server par, 
+is case mein humein nahi pata hota ki answer uske server se kab laut kar aayega, 
+to hum kya nahi kr skte is writing sync code, isse nipatne ke liye hum log async code likh dete hai taaki blocking 
+naa ho and jab bhi answer aaye humara answer ke respect mein chalne waala code: chal jaaye
+
+
+Main motive :-------
+
+async code ka main motive hota hai ki un cases mein jinmein
+hume pata nahi  code ka answer kitne der mai aayega toh jab bhi answer aa jaye 
+uske answer ke respect mein koin particular code chala dena
+
+setTimeout(function(){
+console.log("Heyy I Am Callback")
+},2000)
+in this function is callback it will execute after 2seconds

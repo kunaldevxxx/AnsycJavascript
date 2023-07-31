@@ -1,0 +1,3 @@
+async ka kaam hota hai 2 kaam ek saath hona
+***********************event loop *******************
+main stack <<<<<<<<<<------------->>>>>>>> side stack

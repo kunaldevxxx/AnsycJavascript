@@ -1,0 +1,11 @@
+/* How Do We Know That Whether We Are Using Sync Code And Async Code */
+setTimeout
+setInterval 
+Promises
+fetch
+axios
+XMLHttpRequest   
+
+These Are Async 
+
+

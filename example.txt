@@ -1,0 +1,16 @@
+1).
+if we have 
+task 1 - 5
+task 2 - 2
+task 3 - 15
+task 4 - 1
+
+//
+in Synchronous if we talk so in the Synchronous 
+first task 1 will execute 1-2-3-4-5 then it give o/p 
+now after completion of 1st task 2nd task start executing
+and so on ........
+//
+///
+in Ansychronous all task execute at same time task with less time will execute 
+in this waiting no issue
