@@ -1,0 +1,11 @@
+fetch 
+axios
+Promises
+setTimeout
+setInterval
+then catch
+callback
+async await
+///////////////////////////////////////////////////////////////////////////////////////////////
+callback always a function yeh sirf jab chalta hai jab async code ka completion hota hain
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\

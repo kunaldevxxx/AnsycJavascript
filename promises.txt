@@ -1,0 +1,9 @@
+promises ---
+some code xxxxxxxxx
+future mai chalega
+|||||||||||||||||||||||
+2 Responses -----------
+1).
+pending 
+resolve ---------> then
+reject ----------> catch

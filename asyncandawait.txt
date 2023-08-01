@@ -1,0 +1,3 @@
+kahani ??
+koi bhi aesa function jisme aap async code likhenge kyoki aysnc code hai toh aap promises ka use kar sakte hain, jab uska answer aayega 
+aapko then lagana padega ,us then se bachne ke liye aap async await ka use kar sakte hai 
