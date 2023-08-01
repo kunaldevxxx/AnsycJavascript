@@ -1,0 +1,13 @@
+concurrency and paralleslism
+
+concurrency -> 
+
+js mein sync code and async code ek saath process ho raha tha yeh hain concurrency
+
+paralleslism ->
+
+focus jyada karta hain diffrent processor and unke core par kaam ko chalane par
+
+throttling ->
+
+kisi code ko control karna number of execution
